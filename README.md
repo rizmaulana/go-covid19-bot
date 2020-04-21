@@ -8,9 +8,9 @@ Telegram Bot : [Covid19 Kalsel](https://t.me/covid19kalselbot)
 
 
 ### References
-[Telebot](https://github.com/tucnak/telebot) 
-[Here Maps](https://www.here.com/)
-[Dep](https://github.com/golang/dep)
+* [Telebot](https://github.com/tucnak/telebot) 
+* [Here Maps](https://www.here.com/)
+* [Dep](https://github.com/golang/dep)
 
 ### How to use
 Hosted to Heroku :
