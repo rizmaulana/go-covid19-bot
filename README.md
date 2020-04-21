@@ -1,4 +1,4 @@
-# Android kotlin-mvvm-covid19
+# Telegram Bot Covid19 Kalsel
 This repository contains telegram bot to monitor COVID19 data in Kalimantan Selatan. Build with Go, Here Maps API and hosted to Heroku
 
 Telegram Bot : [Covid19 Kalsel](https://t.me/covid19kalselbot)
