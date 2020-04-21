@@ -3,7 +3,9 @@ This repository contains telegram bot to monitor COVID19 data in Kalimantan Sela
 
 Telegram Bot : [Covid19 Kalsel](https://t.me/covid19kalselbot)
 
-![alt text](https://cdn.dribbble.com/users/1114210/screenshots/10762051/media/3250c1dd7fd00434cbf5df6498afb996.png)
+Thanks to [Divananda ZF] (https://github.com/ivandzf) for code review
+
+![alt text](https://github.com/rizmaulana/go-covid19-bot/blob/master/screenshot/92735227_3458059020906660_8846061251550248960_o.jpg)
 
 
 
