@@ -15,11 +15,13 @@ Telegram Bot : [Covid19 Kalsel](https://t.me/covid19kalselbot)
 ### How to use
 Hosted to Heroku :
 
-Create some environment variable  :
+Create some environment variable  : 
 
-`PUBLIC_URL` -> Your heroku public url (ex : myawesomebot.herokuapp.com)
-`TOKEN` -> Your telegram bot API KEY
-`HEREMAPS_API_KEY` -> Your here maps API KEY
+* `PUBLIC_URL` -> Your heroku public url (ex : myawesomebot.herokuapp.com)
+* `TOKEN` -> Your telegram bot API KEY
+* `HEREMAPS_API_KEY` -> Your here maps API KEY
+
+You should provide API with this format : `https://jsoneditoronline.org/#left=cloud.acaf10380c1f4cc7bf0b9f2888fd426d`
 
 
 ### Credits
