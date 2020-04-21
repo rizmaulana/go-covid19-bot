@@ -3,14 +3,21 @@ This repository contains telegram bot to monitor COVID19 data in Kalimantan Sela
 
 Telegram Bot : [Covid19 Kalsel](https://t.me/covid19kalselbot)
 
-Thanks to [Divananda ZF](https://github.com/ivandzf) for code review
-
 ![alt text](https://github.com/rizmaulana/go-covid19-bot/blob/master/screenshot/92735227_3458059020906660_8846061251550248960_o.jpg)
 
 
 
 ### References
-1. [Telebot](https://github.com/tucnak/telebot) 
+[Telebot](https://github.com/tucnak/telebot) 
+[Here Maps](https://www.here.com/)
+[Dep](https://github.com/golang/dep)
+
+### How to use
+Hosted to Heroku :
+Create some environment variable  :
+PUBLIC_URL -> Your heroku public url (ex : myawesomebot.herokuapp.com)
+TOKEN -> Your telegram bot API KEY
+HEREMAPS_API_KEY -> Your here maps API KEY
 
 
 ### License
@@ -29,3 +36,5 @@ Thanks to [Divananda ZF](https://github.com/ivandzf) for code review
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
+
+Thanks to [Divananda ZF](https://github.com/ivandzf) for code review
